@@ -290,8 +290,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 **Author**
 
-- **Your Name** - [GitHub](https://github.com/YOUR-USERNAME)
-- **Email**: your.email@example.com
+- **Your Name** - [GitHub](https://github.com/Osgooie)
 
 ---
 
@@ -301,5 +300,3 @@ This project is licensed under the MIT License.
 - The open-source community for amazing tools
 
 ---
-
-⭐ **If you found this project useful, please give it a star!** ⭐
