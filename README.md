@@ -219,8 +219,8 @@ Ames-Housing-Project/
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/osgooie/Ames-Housing-Price-Prediction.git
-cd Ames-Housing-Price-Prediction
+git clone https://github.com/osgooie/Ames-Housing-Cleaning-Data.git
+cd Ames-Housing-Cleaning-Data
 ```
 
 ### 2️⃣ **Create a Virtual Environment (Recommended)**
