@@ -16,9 +16,9 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (اختیاری)
-*.csv
-*.pkl
+# Data files 
+# *.csv
+# *.pkl
 
 # IDE
 .vscode/
