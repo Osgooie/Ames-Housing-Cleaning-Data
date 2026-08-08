@@ -219,7 +219,7 @@ Ames-Housing-Project/
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Ames-Housing-Price-Prediction.git
+git clone https://github.com/osgooie/Ames-Housing-Price-Prediction.git
 cd Ames-Housing-Price-Prediction
 ```
 
