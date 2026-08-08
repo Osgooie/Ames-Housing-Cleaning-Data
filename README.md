@@ -290,7 +290,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 **Author**
 
-- **Your Name** - [GitHub](https://github.com/Osgooie)
+- **Ali Zaki Osgooie** - [GitHub](https://github.com/Osgooie)
 
 ---
 
