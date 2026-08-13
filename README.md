@@ -202,7 +202,6 @@ Ames-Housing-Project/
 ├── images/
 │   
 ├── notebooks/
-│   ├── AmesHousing_Reg.ipynb
 │   └──AmesHousing.ipynb
 ├── src/
 │   ├── __init__.py
